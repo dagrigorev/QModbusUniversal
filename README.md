@@ -1,7 +1,7 @@
 A universal modbus reciever.
 =======================
 
-[![Build Status](https://travis-ci.org/stephane/libmodbus.svg?branch=master)](https://travis-ci.org/stephane/libmodbus)
+[![Build Status](https://travis-ci.org/dagrigorev/QModbusUniversal.svg?branch=master)](https://travis-ci.org/dagrigorev/QModbusUniversal)
 
 Overview
 --------
