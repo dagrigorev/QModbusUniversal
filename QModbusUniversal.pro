@@ -25,10 +25,16 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
+        Core/Modbus/ModbusBase.cpp \
+        Core/Modbus/ModbusRequest.cpp \
+        Core/Modbus/ModbusResponse.cpp \
         main.cpp \
         mainwindow.cpp
 
 HEADERS += \
+        Core/Modbus/ModbusBase.h \
+        Core/Modbus/ModbusRequest.h \
+        Core/Modbus/ModbusResponse.h \
         mainwindow.h
 
 FORMS += \
