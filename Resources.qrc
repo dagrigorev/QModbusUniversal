@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/action/fileNewIcon">
+        <file>icons/file.svg</file>
+    </qresource>
+    <qresource prefix="/action/fileOpenIcon">
+        <file>icons/opened_folder.svg</file>
+    </qresource>
+    <qresource prefix="/action/helpAboutIcon">
+        <file>icons/answers.svg</file>
+    </qresource>
+    <qresource prefix="/action/helpDocumentationIcon">
+        <file>icons/document.svg</file>
+    </qresource>
+</RCC>
